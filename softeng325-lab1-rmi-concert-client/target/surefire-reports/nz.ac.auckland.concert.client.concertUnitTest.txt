@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: nz.ac.auckland.concert.client.concertUnitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.787 sec <<< FAILURE!
+testCreate(nz.ac.auckland.concert.client.concertUnitTest)  Time elapsed: 0.14 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at nz.ac.auckland.concert.client.concertUnitTest.testCreate(concertUnitTest.java:70)
+
